@@ -1,0 +1,71 @@
+[21-May-2023 10:26:33 UTC] PHP Warning:  move_uploaded_file(/path/to/upload/directory/School.pptx): failed to open stream: No such file or directory in /home/xtreamd1/public_html/php.php on line 37
+[21-May-2023 10:26:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6iIrln' to '/path/to/upload/directory/School.pptx' in /home/xtreamd1/public_html/php.php on line 37
+[21-May-2023 10:26:47 UTC] PHP Warning:  move_uploaded_file(/path/to/upload/directory/xtreamDev.jpg): failed to open stream: No such file or directory in /home/xtreamd1/public_html/php.php on line 37
+[21-May-2023 10:26:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNNAsoI' to '/path/to/upload/directory/xtreamDev.jpg' in /home/xtreamd1/public_html/php.php on line 37
+[21-May-2023 10:28:59 UTC] PHP Warning:  move_uploaded_file(/path/to/upload/directory/xtreamDev.jpg): failed to open stream: No such file or directory in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:28:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpS1kibZ' to '/path/to/upload/directory/xtreamDev.jpg' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:29:07 UTC] PHP Warning:  move_uploaded_file(/path/to/upload/directory/School.pptx): failed to open stream: No such file or directory in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:29:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php66noDl' to '/path/to/upload/directory/School.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:33:35 UTC] PHP Warning:  move_uploaded_file(/uploaddd.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:33:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmABKIW' to '/uploaddd.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:34:13 UTC] PHP Warning:  move_uploaded_file(/uploadpresent in dialog Auditorium.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:34:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmCy0qe' to '/uploadpresent in dialog Auditorium.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:35:25 UTC] PHP Warning:  move_uploaded_file(/upload/present in dialog Auditorium.pptx): failed to open stream: No such file or directory in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:35:25 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKCWbb2' to '/upload/present in dialog Auditorium.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:35:49 UTC] PHP Warning:  move_uploaded_file(/upload/present in dialog Auditorium.pptx): failed to open stream: No such file or directory in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:35:49 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpasY1Yg' to '/upload/present in dialog Auditorium.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:36:01 UTC] PHP Warning:  move_uploaded_file(/upload/java.pptx): failed to open stream: No such file or directory in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:36:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSrY1Gm' to '/upload/java.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:36:34 UTC] PHP Warning:  move_uploaded_file(/uploadjava.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:36:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWqo2WQ' to '/uploadjava.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:37:11 UTC] PHP Warning:  move_uploaded_file(/uploadjava.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:37:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGIWnCR' to '/uploadjava.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:37:19 UTC] PHP Warning:  move_uploaded_file(/uploadDQ Q.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:37:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEv99zL' to '/uploadDQ Q.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:38:27 UTC] PHP Warning:  move_uploaded_file(/uploadjava.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:38:27 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJe8Zk0' to '/uploadjava.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:38:34 UTC] PHP Warning:  move_uploaded_file(/uploadjava.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:38:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIAZSNF' to '/uploadjava.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:38:43 UTC] PHP Warning:  move_uploaded_file(/uploadjava.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:38:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOj9abH' to '/uploadjava.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:41:28 UTC] PHP Warning:  move_uploaded_file(/uploadjava.pptx): failed to open stream: Permission denied in /home/xtreamd1/public_html/php.php on line 18
+[21-May-2023 10:41:28 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpn1aw4K' to '/uploadjava.pptx' in /home/xtreamd1/public_html/php.php on line 18
+[30-May-2023 07:41:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xtreamd1'@'localhost' to database 'students' in /home/xtreamd1/public_html/ctretedb.php on line 29
+[30-May-2023 07:46:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'xtreamd1_senath'@'localhost' to database 'students' in /home/xtreamd1/public_html/ctretedb.php on line 29
+[09-Jun-2023 07:28:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'xtreamd1_senath'@'localhost' (using password: YES) in /home/xtreamd1/public_html/per.php on line 9
+[09-Jun-2023 07:30:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 23
+[09-Jun-2023 07:30:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 28
+[09-Jun-2023 07:30:01 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 31
+[09-Jun-2023 07:30:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 23
+[09-Jun-2023 07:30:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 28
+[09-Jun-2023 07:30:35 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 31
+[09-Jun-2023 07:30:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 23
+[09-Jun-2023 07:30:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 28
+[09-Jun-2023 07:30:40 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 31
+[09-Jun-2023 07:36:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 22
+[09-Jun-2023 07:36:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 27
+[09-Jun-2023 07:37:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 22
+[09-Jun-2023 07:37:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 27
+[09-Jun-2023 07:37:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 22
+[09-Jun-2023 07:37:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 27
+[09-Jun-2023 07:37:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 22
+[09-Jun-2023 07:37:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 27
+[09-Jun-2023 07:38:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 22
+[09-Jun-2023 07:38:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 27
+[09-Jun-2023 07:42:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 22
+[09-Jun-2023 07:42:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 27
+[09-Jun-2023 08:01:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 80
+[09-Jun-2023 08:06:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 84
+[09-Jun-2023 08:18:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'your_username'@'localhost' (using password: YES) in /home/xtreamd1/public_html/per.php on line 71
+[09-Jun-2023 08:19:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/xtreamd1/public_html/per.php on line 83
+[19-Jun-2023 13:18:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'xtreamd1_senath'@'localhost' (using password: YES) in /home/xtreamd1/public_html/per.php on line 22
+[19-Jun-2023 13:31:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/xtreamd1/public_html/per.php on line 16
+[19-Jun-2023 13:31:51 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 47
+[19-Jun-2023 13:31:51 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 47
+[19-Jun-2023 13:31:51 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 47
+[19-Jun-2023 13:41:56 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 41
+[19-Jun-2023 13:41:56 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 41
+[19-Jun-2023 13:41:56 UTC] PHP Warning:  Division by zero in /home/xtreamd1/public_html/per.php on line 41
+[21-Jun-2023 16:33:30 UTC] PHP Warning:  file_get_contents(version.txt): failed to open stream: No such file or directory in /home/xtreamd1/public_html/update.php on line 19
+[21-Jun-2023 16:33:30 UTC] PHP Warning:  file_get_contents(https://github.com/your_username/your_repository/version.txt): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/xtreamd1/public_html/update.php on line 22
